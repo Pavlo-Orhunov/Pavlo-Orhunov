@@ -6,7 +6,7 @@ I plan to continue to develop as a web page ***layout designer***, because this 
 
 Previously, I worked as a software tester on Applause (uTest platform), having previously completed all the academy courses, received a tester certificate, having completed courses in Ukraine.
 
-I also have extensive experience in the financial and banking sector. We also have experience in developing and adjusting contracts and technical documentation for turnkey construction projects. Management of small teams (up to 10 people). I have extensive experience using various software in everyday work (from simple text editors to specialized accounting programs).
+I also have extensive experience in the financial and banking sector. I also have experience in developing and adjusting contracts and technical documentation for turnkey projects for construction. Managed small teams (up to 10 people). I have extensive experience using various software in everyday work (from simple text editors to specialized accounting programs).
 
 <!---
 Pavlo-Orhunov/Pavlo-Orhunov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
