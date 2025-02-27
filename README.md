@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Pavlo-Orhunov
 
-I've been studying the theory and practice of ***web page layout*** for over a year now. Today I already have ready-made works, laid out both according to the lessons of various teachers, and done independently. All results are presented here.
+I have been studying ***web page layout*** for a few years. I recently completed a course on the 'Freelancer Life Style' education platform and earned a certificate. I already have completed projects — some following lessons from different instructors, and others created independently. You can find all my work here.
 
 I plan to continue to develop as a web page ***layout designer***, because this area of IT, which I entered not so long ago, is extremely interesting to me and I would like to improve in the layout of interesting and beautiful layouts.
 
