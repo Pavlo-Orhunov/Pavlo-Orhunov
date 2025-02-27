@@ -2,7 +2,7 @@
 
 I have been studying ***web page layout*** for a few years. I recently completed a course on the 'Freelancer Life Style' education platform and earned a certificate. I already have completed projects — some following lessons from different instructors, and others created independently. You can find all my work here.
 
-I plan to continue to develop as a web page ***layout designer***, because this area of IT, which I entered not so long ago, is extremely interesting to me and I would like to improve in the layout of interesting and beautiful layouts.
+I plan to continue growing as a web page ***layout designer*** because I find this field of IT, which I entered not long ago, extremely interesting. I want to keep improving my skills in creating engaging and visually appealing layouts.
 
 Previously, I worked as a software tester on Applause (uTest platform), having previously completed all the academy courses, received a tester certificate, having completed courses in Ukraine.
 
